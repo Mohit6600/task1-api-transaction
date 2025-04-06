@@ -41,4 +41,4 @@ The following dependencies are used in this project:
 
 ## Apk
 
-* Debug APK: `app\build\outputs\apk\debug\app-debug.apk`
+* Debug APK: [Download](app-debug.apk)
